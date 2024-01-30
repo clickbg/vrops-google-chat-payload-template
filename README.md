@@ -1,5 +1,5 @@
 # vrops-google-chat-payload-template
-Payload template for sending alerts from vRrealize Operation/Aria Operations to Google Chat
+Payload template for sending alerts from vRealize Operations/Aria Operations to Google Chat
 
 # How to use
 1. Create Outbound template by navigating to Configure > Alerts > Outbound Settings
