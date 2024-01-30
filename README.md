@@ -9,7 +9,7 @@ Payload template for sending alerts from vRrealize Operation/Aria Operations to 
 5. That's it, Aria Operations is now able to send Google Chat Notifications
 
 # Useful links
-You can customize the template using this tool - https://addons.gsuite.google.com/uikit/builder
-JSON validator - https://jsoneditoronline.org/#left=local.tubusi
-Google Chat API docs - https://developers.google.com/chat/api/reference/rest/v1/cards
+You can customize the template using this tool - https://addons.gsuite.google.com/uikit/builder  
+JSON validator - https://jsoneditoronline.org/#left=local.tubusi  
+Google Chat API docs - https://developers.google.com/chat/api/reference/rest/v1/cards  
 
